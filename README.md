@@ -1,2 +1,2 @@
 # exercism-solution
-Python Solution for Exercism
+Python Solutions for Exercism
